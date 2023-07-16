@@ -1,0 +1,12 @@
+html {
+    font-family: 'Ubuntu Mono', 'Courier New', Courier, monospace;
+    font-weight: bold;
+    margin: 0;
+    padding: 0;
+}
+
+#head {
+    margin: 0;
+    padding: 0;
+    background-color: #ABABAB;
+}
